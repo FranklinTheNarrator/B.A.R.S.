@@ -14,7 +14,12 @@ dist-ssr
 .env
 .env.local
 coverage
-*.local
+*.local 
+
+# .NET
+**/bin/
+**/obj/
+*.user
 
 # Editor directories and files
 .vscode/*
